@@ -1,9 +1,17 @@
 # Interactive
 Aplicacion para conectarse a TikTok con minijuegos
 
-Puedes descargar la ultima version desde este enlace: [Interactive v1.1.7](https://github.com/Deianblaz/InteractiveApp/releases/download/v1.1.7/interactive-1.1.7-setup.exe)
+Puedes descargar la ultima version desde este enlace: [Interactive v1.1.8](https://github.com/Deianblaz/InteractiveApp/releases/download/v1.1.8/interactive-1.1.8-setup.exe)
 
 ### Actualizaciones:
+- `Version 1.1.8` 
+  - Añadido Keystrokes.
+  - Añadido pagos con Patreon.
+  - Varios bugs arreglados.
+
+- `Version 1.1.7` 
+  - Arreglando bugs y preparando funciones para futuras versiones.
+
 - `Version 1.1.6` 
   - Optimización de la aplicación.
   - Añadido Mini-Juego Survival (Plugin Minecraft v1.20.1).
