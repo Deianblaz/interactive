@@ -5,9 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Page Not Found</title>
     <script type="text/javascript">
-        // Redirige a la versión con hash para manejar el enrutamiento en el cliente
-        var pathname = window.location.pathname;
+        // Extraer la parte de la ruta que viene después de "/interactive"
+        var pathname = window.location.pathname.replace('/interactive', '');
+        // Construir la nueva URL con el formato correcto
         var newUrl = window.location.origin + '/interactive/#' + pathname;
+        // Redirigir a la nueva URL
         window.location.href = newUrl;
     </script>
 </head>
