@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/interactive/static/css/main.b2886128.css",
+    "main.js": "/interactive/static/js/main.b1ad8c53.js",
+    "static/media/sinFirmar.png": "/interactive/static/media/sinFirmar.6249cd28f4e6c8a1e336.png",
+    "static/media/icon.png": "/interactive/static/media/icon.bed052b71dad03e8cd0b.png",
+    "static/media/winCup.png": "/interactive/static/media/winCup.653ec9fbec02dc736b27.png",
+    "static/media/nothumb.png": "/interactive/static/media/nothumb.83ceb0dc6aff0b4f8153.png",
+    "index.html": "/interactive/index.html",
+    "static/media/gold_crown.svg": "/interactive/static/media/gold_crown.74fe4598cae3dad94ac39a39674b5e15.svg"
+  },
+  "entrypoints": [
+    "static/css/main.b2886128.css",
+    "static/js/main.b1ad8c53.js"
+  ]
+}
