@@ -1,9 +1,12 @@
 # Interactive
 Aplicacion para conectarse a TikTok con minijuegos
 
-Puedes descargar la ultima version desde este enlace: [Interactive v1.2.4](https://github.com/Deianblaz/InteractiveApp/releases/download/v1.2.4/interactive-1.2.4-setup.exe)
+Puedes descargar la ultima version desde este enlace: [Interactive v1.2.5](https://github.com/Deianblaz/InteractiveApp/releases/download/v1.2.5/interactive-1.2.5-setup.exe)
 
 ### Actualizaciones:
+- `Version 1.2.5` 
+  - Arreglado bugs con TTS y comandos de Minecraft.
+
 - `Version 1.2.4` 
   - Reparado bugs de Minecraft (ServerTap).
 
