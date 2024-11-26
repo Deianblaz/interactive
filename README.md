@@ -9,7 +9,9 @@ Puedes descargar la ultima version desde este enlace: [Interactive v1.2.7](https
   - Mejoras visuales de la aplicación.
 
 - `Version 1.2.6`
-  - Arreglado bugs con TTS y comandos de Minecraft.
+  - Añadido Mini-Juegos.
+  - Soporte para PvZTools.
+  - Suscripción por PayPal.
 
 - `Version 1.2.5`
   - Arreglado bugs con TTS y comandos de Minecraft.
