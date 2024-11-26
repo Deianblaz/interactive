@@ -1,27 +1,34 @@
 # Interactive
 Aplicacion para conectarse a TikTok con minijuegos
 
-Puedes descargar la ultima version desde este enlace: [Interactive v1.2.5](https://github.com/Deianblaz/InteractiveApp/releases/download/v1.2.5/interactive-1.2.5-setup.exe)
+Puedes descargar la ultima version desde este enlace: [Interactive v1.2.7](https://github.com/Deianblaz/InteractiveApp/releases/download/v1.2.7/interactive-1.2.7-setup.exe)
 
 ### Actualizaciones:
-- `Version 1.2.5` 
+- `Version 1.2.7`
+  - Arreglado varios bugs
+  - Mejoras visuales de la aplicación.
+
+- `Version 1.2.6`
   - Arreglado bugs con TTS y comandos de Minecraft.
 
-- `Version 1.2.4` 
+- `Version 1.2.5`
+  - Arreglado bugs con TTS y comandos de Minecraft.
+
+- `Version 1.2.4`
   - Reparado bugs de Minecraft (ServerTap).
 
-- `Version 1.2.3` 
+- `Version 1.2.3`
   - Corregido algunos bugs.
   - Añadido Overlay Win General.
   - TTS para YouTube y TikTok en conjunto.
 
-- `Version 1.2.2` 
+- `Version 1.2.2`
   - Añadido Text To Speech (se añadirán mas personalizaciones en el futuro).
   - Mejora del rendimiento (algunas mejoras estéticas y modales informativos fueron añadidos).
   - Añadido limitador de eventos Share & Follow.
   - Añadido acciones para Plants Vs Zombies.
 
-- `Version 1.2.1` 
+- `Version 1.2.1`
   - Añadido overlay puntos.
   - Añadido importar perfiles especifico.
   - Añadido ejecutar acciones Streamerbot.
