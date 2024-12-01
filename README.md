@@ -1,9 +1,13 @@
 # Interactive
 Aplicacion para conectarse a TikTok con minijuegos
 
-Puedes descargar la ultima version desde este enlace: [Interactive v1.2.8](https://github.com/Deianblaz/InteractiveApp/releases/download/v1.2.8/interactive-1.2.8-setup.exe)
+Puedes descargar la ultima version desde este enlace: [Interactive v1.2.9](https://github.com/Deianblaz/InteractiveApp/releases/download/v1.2.9/interactive-1.2.9-setup.exe)
 
 ### Actualizaciones:
+- `Version 1.2.9`
+  - Añadido Overlays de Metas.
+  - Reparado bugs con PvZTools.
+
 - `Version 1.2.8`
   - Añadido soporte para Plants vs Zombies Hybrid.
   - Añadido modulo para descargar imágenes de los regalos disponibles.
