@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/interactive/static/css/main.8a40a284.css",
-    "main.js": "/interactive/static/js/main.781c928e.js",
+    "main.js": "/interactive/static/js/main.4ac28392.js",
     "static/media/sinFirmar.png": "/interactive/static/media/sinFirmar.6249cd28f4e6c8a1e336.png",
     "static/media/icon.png": "/interactive/static/media/icon.bed052b71dad03e8cd0b.png",
     "static/media/winCup.png": "/interactive/static/media/winCup.653ec9fbec02dc736b27.png",
@@ -11,6 +11,6 @@
   },
   "entrypoints": [
     "static/css/main.8a40a284.css",
-    "static/js/main.781c928e.js"
+    "static/js/main.4ac28392.js"
   ]
 }
