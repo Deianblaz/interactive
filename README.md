@@ -1,9 +1,15 @@
 # Interactive
 Aplicacion para conectarse a TikTok con minijuegos
 
-Puedes descargar la ultima version desde este enlace: [Interactive v1.3.4](https://github.com/Deianblaz/InteractiveApp/releases/download/v1.3.4/interactive-1.3.4-setup.exe)
+Puedes descargar la ultima version desde este enlace: [Interactive v1.3.5](https://github.com/Deianblaz/InteractiveApp/releases/download/v1.3.5/interactive-1.3.5-setup.exe)
 
 ### Actualizaciones:
+- `Version 1.3.5`
+  - Mejoras de optimizacion de la Aplicacion.
+  - Correciones de GTA KOTH.
+  - Arreglos de bugs de nombres.
+  - Mejoras visuales.
+
 - `Version 1.3.4`
   - Corregido un bug con el modal.
   - Corregido enlace caído de PVZ.
