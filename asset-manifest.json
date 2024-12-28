@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/interactive/static/css/main.64e86d5c.css",
-    "main.js": "/interactive/static/js/main.bb9ce365.js",
+    "main.css": "/interactive/static/css/main.dfbdf3e5.css",
+    "main.js": "/interactive/static/js/main.5669b94b.js",
     "static/media/sinFirmar.png": "/interactive/static/media/sinFirmar.6249cd28f4e6c8a1e336.png",
     "static/media/icon.png": "/interactive/static/media/icon.bed052b71dad03e8cd0b.png",
+    "static/media/sasuke.png": "/interactive/static/media/sasuke.f625b55fd3942ea51d66.png",
+    "static/media/naruto.png": "/interactive/static/media/naruto.16e03b57e6a5f80046b6.png",
     "static/media/winCup.png": "/interactive/static/media/winCup.653ec9fbec02dc736b27.png",
-    "static/media/vs2.avif": "/interactive/static/media/vs2.3785962e3ab7afb85bde.avif",
     "static/media/nothumb.png": "/interactive/static/media/nothumb.83ceb0dc6aff0b4f8153.png",
-    "static/media/vs1.avif": "/interactive/static/media/vs1.957104c163c65d91d3d8.avif",
+    "static/media/vs.avif": "/interactive/static/media/vs.957104c163c65d91d3d8.avif",
     "index.html": "/interactive/index.html",
     "static/media/gold_crown.svg": "/interactive/static/media/gold_crown.74fe4598cae3dad94ac39a39674b5e15.svg"
   },
   "entrypoints": [
-    "static/css/main.64e86d5c.css",
-    "static/js/main.bb9ce365.js"
+    "static/css/main.dfbdf3e5.css",
+    "static/js/main.5669b94b.js"
   ]
 }
