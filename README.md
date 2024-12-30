@@ -1,9 +1,13 @@
 # Interactive
 Aplicacion para conectarse a TikTok con minijuegos
 
-Puedes descargar la ultima version desde este enlace: [Interactive v1.3.6](https://github.com/Deianblaz/InteractiveApp/releases/download/v1.3.6/interactive-1.3.6-setup.exe)
+Puedes descargar la ultima version desde este enlace: [Interactive v1.3.7](https://github.com/Deianblaz/InteractiveApp/releases/download/v1.3.7/interactive-1.3.7-setup.exe)
 
 ### Actualizaciones:
+- `Version 1.3.7`
+  - Cambios en el overlay de Gift vs Gift.
+  - Cambios en el servidor de autenticacion.
+
 - `Version 1.3.6`
   - Corrección de bugs.
   - Añadido Overlay Gift vs Gift.
