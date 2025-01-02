@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/interactive/static/css/main.dfbdf3e5.css",
-    "main.js": "/interactive/static/js/main.b419cb12.js",
+    "main.js": "/interactive/static/js/main.dc8ef333.js",
     "static/media/sinFirmar.png": "/interactive/static/media/sinFirmar.6249cd28f4e6c8a1e336.png",
     "static/media/icon.png": "/interactive/static/media/icon.bed052b71dad03e8cd0b.png",
     "static/media/sasuke.png": "/interactive/static/media/sasuke.f625b55fd3942ea51d66.png",
@@ -14,6 +14,6 @@
   },
   "entrypoints": [
     "static/css/main.dfbdf3e5.css",
-    "static/js/main.b419cb12.js"
+    "static/js/main.dc8ef333.js"
   ]
 }
