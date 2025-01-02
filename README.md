@@ -1,9 +1,14 @@
 # Interactive
 Aplicacion para conectarse a TikTok con minijuegos
 
-Puedes descargar la ultima version desde este enlace: [Interactive v1.3.8](https://github.com/Deianblaz/InteractiveApp/releases/download/v1.3.8/interactive-1.3.8-setup.exe)
+Puedes descargar la ultima version desde este enlace: [Interactive v1.3.9](https://github.com/Deianblaz/InteractiveApp/releases/download/v1.3.9/interactive-1.3.9-setup.exe)
 
 ### Actualizaciones:
+- `Version 1.3.9`
+  - Corregido reset Gift vs Gift.
+  - Añadido placeholders a Webhook.
+  - Añadido borde de fuente a metas overlays.
+
 - `Version 1.3.8`
   - Añadido Comandos por WebHook.
   - Corrección overlay Gifts vs Gifts.
