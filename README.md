@@ -1,9 +1,16 @@
 # Interactive
 Aplicacion para conectarse a TikTok con minijuegos
 
-Puedes descargar la ultima version desde este enlace: [Interactive v1.3.9](https://github.com/Deianblaz/InteractiveApp/releases/download/v1.3.9/interactive-1.3.9-setup.exe)
+Puedes descargar la ultima version desde este enlace: [Interactive v1.4.0](https://github.com/Deianblaz/InteractiveApp/releases/download/v1.4.0/interactive-1.4.0-setup.exe)
 
 ### Actualizaciones:
+- `Version 1.4.0`
+  - Añadido Plugin CUBO TNT (Minecraft).
+  - Añadido Guía para Plugin CUBO TNT.
+  - Mejoras Visuales.
+  - Mejoras de Rendimiento Importantes.
+  - Añadido Creador de Comandos (Minecraf y Proyect Zomboid).
+
 - `Version 1.3.9`
   - Corregido reset Gift vs Gift.
   - Añadido placeholders a Webhook.
