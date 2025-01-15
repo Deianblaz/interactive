@@ -1,9 +1,16 @@
 # Interactive
 Aplicacion para conectarse a TikTok con minijuegos
 
-Puedes descargar la ultima version desde este enlace: [Interactive v1.4.1](https://github.com/Deianblaz/InteractiveApp/releases/download/v1.4.1/interactive-1.4.1-setup.exe)
+Puedes descargar la ultima version desde este enlace: [Interactive v1.4.2](https://github.com/Deianblaz/InteractiveApp/releases/download/v1.4.2/interactive-1.4.2-setup.exe)
 
 ### Actualizaciones:
+- `Version 1.4.2`
+  - Mejoras con respecto al Text to Speech.
+  - Mejoras de rendemiento y fluidez de la app.
+  - Mejoras esteticas.
+  - Añadido Keystrokes para PvZ Fusion.
+  - Añadido Animaciones a Overlays de metas.
+
 - `Version 1.4.1`
   - Añadido PVZ Fusion.
   - Corregido algunos bugs.
