@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/interactive/static/css/main.7529f99a.css",
-    "main.js": "/interactive/static/js/main.be3960a9.js",
+    "main.js": "/interactive/static/js/main.5adcb1a8.js",
     "static/media/sinFirmar.avif": "/interactive/static/media/sinFirmar.e3e322b95893282ccac5.avif",
     "static/media/sasuke.avif": "/interactive/static/media/sasuke.e1eefe98a5c56776de39.avif",
     "static/media/naruto.avif": "/interactive/static/media/naruto.8a872e54520f1710c23f.avif",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.7529f99a.css",
-    "static/js/main.be3960a9.js"
+    "static/js/main.5adcb1a8.js"
   ]
 }
