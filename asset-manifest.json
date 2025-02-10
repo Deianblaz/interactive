@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/interactive/static/css/main.2d07d036.css",
-    "main.js": "/interactive/static/js/main.5e5f85a7.js",
+    "main.js": "/interactive/static/js/main.1bcce0a4.js",
     "static/media/sinFirmar.avif": "/interactive/static/media/sinFirmar.e3e322b95893282ccac5.avif",
     "static/media/sasuke.avif": "/interactive/static/media/sasuke.e1eefe98a5c56776de39.avif",
     "static/media/naruto.avif": "/interactive/static/media/naruto.8a872e54520f1710c23f.avif",
@@ -21,10 +21,11 @@
     "static/media/nothumb.avif": "/interactive/static/media/nothumb.5dcfbcbf3fcc49dbb011.avif",
     "static/media/tiktokShare.avif": "/interactive/static/media/tiktokShare.85a8f670d2f00dab7b50.avif",
     "index.html": "/interactive/index.html",
-    "static/media/gold_crown.svg": "/interactive/static/media/gold_crown.74fe4598cae3dad94ac39a39674b5e15.svg"
+    "static/media/gold_crown.svg": "/interactive/static/media/gold_crown.74fe4598cae3dad94ac39a39674b5e15.svg",
+    "static/media/vacio.avif": "/interactive/static/media/vacio.a2daf96e798940474e9d.avif"
   },
   "entrypoints": [
     "static/css/main.2d07d036.css",
-    "static/js/main.5e5f85a7.js"
+    "static/js/main.1bcce0a4.js"
   ]
 }
