@@ -1,9 +1,14 @@
 # Interactive
 Aplicacion para conectarse a TikTok con minijuegos
 
-Puedes descargar la ultima version desde este enlace: [Interactive v1.7.1](https://github.com/Deianblaz/InteractiveApp/releases/download/v1.7.1/interactive-1.7.1-setup.exe)
+Puedes descargar la ultima version desde este enlace: [Interactive v1.8.0](https://github.com/Deianblaz/InteractiveApp/releases/download/v1.8.0/interactive-1.8.0-setup.exe)
 
 ### Actualizaciones:
+- `Version 1.8.0 (26/02/2025)`
+  - Mejora y rediseño de las acciones con Keystrokes.
+  - Mejora con las acciones de PvZ.
+  - Añadido Hotkeys.
+
 - `Version 1.7.1 (09/02/2025)`
   - Mejora de captura de errores.
   - Solución de duplicidad de eventos.
