@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/interactive/static/css/main.42f7c1ed.css",
-    "main.js": "/interactive/static/js/main.c9f8e163.js",
+    "main.js": "/interactive/static/js/main.dcf51df3.js",
     "static/media/sinFirmar.avif": "/interactive/static/media/sinFirmar.e3e322b95893282ccac5.avif",
     "static/media/sasuke.avif": "/interactive/static/media/sasuke.e1eefe98a5c56776de39.avif",
     "static/media/naruto.avif": "/interactive/static/media/naruto.8a872e54520f1710c23f.avif",
@@ -18,6 +18,8 @@
     "static/media/tiktokLike.avif": "/interactive/static/media/tiktokLike.5ad371e6d48f2956e7c0.avif",
     "static/media/vs4.avif": "/interactive/static/media/vs4.09d7d1ec4e6330d2abb5.avif",
     "static/media/tiktokFollow.avif": "/interactive/static/media/tiktokFollow.ece432146c34b151bea1.avif",
+    "static/media/tiktokCofre.avif": "/interactive/static/media/tiktokCofre.48bc766c1eae80f48c91.avif",
+    "static/media/tiktokDeath.avif": "/interactive/static/media/tiktokDeath.5c9ee65bad36362257f2.avif",
     "static/media/nothumb.avif": "/interactive/static/media/nothumb.5dcfbcbf3fcc49dbb011.avif",
     "static/media/tiktokShare.avif": "/interactive/static/media/tiktokShare.85a8f670d2f00dab7b50.avif",
     "index.html": "/interactive/index.html",
@@ -26,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.42f7c1ed.css",
-    "static/js/main.c9f8e163.js"
+    "static/js/main.dcf51df3.js"
   ]
 }
