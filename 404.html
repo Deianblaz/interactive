@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Not Found</title>
+    <script type="text/javascript">
+        // Extraer la parte de la ruta que viene después de "/interactive"
+        var pathname = window.location.pathname.replace('/interactive', '');
+        // Construir la nueva URL con el formato correcto
+        var newUrl = window.location.origin + '/interactive/#' + pathname;
+        // Redirigir a la nueva URL
+        window.location.href = newUrl;
+    </script>
+</head>
+<body>
+    <h1>404 - Page Not Found</h1>
+    <p>If you are not redirected automatically, <a id="redirect-link" href="#">click here</a>.</p>
+    <script>
+        // También proporciona un enlace en caso de que la redirección automática no funcione
+        document.getElementById('redirect-link').href = newUrl;
+    </script>
+</body>
+</html>
