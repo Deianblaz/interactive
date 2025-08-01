@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/interactive/static/css/main.a48fbd05.css",
-    "main.js": "/interactive/static/js/main.dc671e2b.js",
+    "main.js": "/interactive/static/js/main.4e02311d.js",
     "static/js/376.0be3167e.chunk.js": "/interactive/static/js/376.0be3167e.chunk.js",
     "static/media/pvzTool.avif": "/interactive/static/media/pvzTool.a27731255411c214f3b5.avif",
     "static/media/cuboTNTGame.avif": "/interactive/static/media/cuboTNTGame.77fae673be88d544d863.avif",
@@ -46,6 +46,6 @@
   },
   "entrypoints": [
     "static/css/main.a48fbd05.css",
-    "static/js/main.dc671e2b.js"
+    "static/js/main.4e02311d.js"
   ]
 }
